@@ -211,7 +211,7 @@ line-height: 24px;
 	margin-top: 65px;
 }
 .mainpage{
-	color: blue;
+	color: darkblue;
 }
 .container{
 	width: 1055px;
@@ -228,16 +228,7 @@ line-height: 24px;
 	margin-left: 42px;
 	margin-right: 42px;
 }
-p{
-	font-family: "BPG Nino Mtavruli", sans-serif;
-	font-weight: 400px;
-}
-h3{
-	font-family: "BPG Nino Mtavruli", sans-serif;
-	font-weight: 400px;
-}
-h4{
-	font-family: "BPG Nino Mtavruli", sans-serif;
-	font-weight: 400px;
-
+.square{
+	font-family: "BPG Square", sans-serif;
+	font-weight: 500px;
 }
