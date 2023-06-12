@@ -92,6 +92,8 @@ margin-top: 53px;
 background: #E7E7E7;
 }
 .p1{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500px;
 	margin-top: 21px;
 	margin-right: 170px;
 	margin-left: 23px;
@@ -110,6 +112,8 @@ height: 77px;
 }
 .p3{
 	padding-left: 150px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500px;
 }
 
 .div4{ display: inline-block;
@@ -124,6 +128,8 @@ background: #E7E7E7;}
 	vertical-align: top;
 }
 .p4{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500px;
 	font-size: 20px;
 line-height: 24px;
 
@@ -140,6 +146,8 @@ height: 89px;
 
 }
 .p5{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500px;
 	display: inline-block;
 width: 335px;
 height: 95px;
@@ -219,4 +227,17 @@ line-height: 24px;
 .line01{
 	margin-left: 42px;
 	margin-right: 42px;
+}
+p{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: 400px;
+}
+h3{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: 400px;
+}
+h4{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-weight: 400px;
+
 }
