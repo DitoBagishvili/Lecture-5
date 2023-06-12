@@ -1,0 +1,193 @@
+body{
+	padding: 54px 52px;
+}
+header{
+	margin-bottom: 54px;
+}
+a {
+	font-size: 26px;
+	color: #4E6FAE;
+}
+.logo{
+	vertical-align: middle;
+	margin-right: 60px;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+.my26{
+	width: 30px;
+	height: 30px;
+	background-color: #5012D5;
+	font-size: 24px;
+line-height: 28px;
+color: #84FF81;
+padding: 10px;
+}
+li{
+	display: inline-block;
+	margin-right: 80px;
+}
+.articleimg{
+	margin-right: 66px;
+margin-bottom: 30px;
+}
+.textdiv{
+	width: 780px;
+	display: inline-block;
+	vertical-align: top;
+}
+p{
+	font-size: 16px;
+	margin-bottom: 30px;
+} h3{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+h4{
+
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 20px;
+line-height: 24px;
+
+color: #4E6FAE;
+
+
+}
+.text2 {
+width: 1021px;
+height: 148px;
+}
+.html{
+	margin-left: 150px;
+	display: block;
+}
+.news{
+	display: inline-block;
+	font-size: 26px;
+line-height: 31px;
+margin-top: 120px;
+margin-right: 18px;
+margin-left: 150px;
+
+
+color: blue;
+
+}
+.div2{
+	display: inline-block;
+	font-size: 26px;
+line-height: 31px;
+
+color: #4E6FAE;
+
+}
+.div3{position: absolute;
+	margin-left: 150px;
+width: 500px;
+height: 192px;
+
+background: #E7E7E7;
+}
+.p1{
+	margin-top: 21px;
+	margin-right: 170px;
+	margin-left: 23px;
+	font-size: 20px;
+line-height: 24px;
+color: #3F4145;
+
+}
+.img1{
+	display: inline-block;
+	position: absolute;
+	margin-right: 387px;
+	margin-left: 36px;
+width: 77px;
+height: 77px;
+}
+.p3{
+	padding-left: 150px;
+}
+
+.div4{ display: inline-block;
+width: 500px;
+height: 192px;
+
+background: #E7E7E7;
+	margin-left: 746px;
+}
+.p4{
+	font-size: 20px;
+line-height: 24px;
+
+color: #3F4145;
+ margin-left: 29px;
+ margin-top: 21px;
+}
+.img5{
+	margin-left: 36px;
+	margin-right: 373px;
+	position: absolute;
+width: 89px;
+height: 89px;
+
+}
+.p5{
+	display: inline-block;
+width: 335px;
+height: 95px;
+margin-left: 148px;
+}
+.sect1{
+width: 1660px;
+height: 735px;
+
+background: #E7E7E7;
+}
+.p11{
+	margin-top: 93px;
+	margin-left: 162px;
+	font-size: 36px;
+line-height: 44px;
+
+color: #4E6FAE;
+
+}
+.p12{ 
+	margin-left: 162px;
+	font-size: 20px;
+line-height: 24px;
+
+
+}
+.p13{
+	margin-left: 162px;
+	font-size: 20px;
+line-height: 24px;
+
+
+}
+.p14{
+	margin-left: 162px;
+	font-size: 20px;
+line-height: 24px;
+
+}
+.Limg{
+	position: absolute;
+width: 944px;
+height: 549px;
+margin-left: 676px;
+}
+.img9{
+	margin-left: 42px;
+	margin-right: 42px;
+}
+.art5{
+}
+.ft{
+	margin-top: 50px;
+}
